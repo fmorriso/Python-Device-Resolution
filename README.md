@@ -13,7 +13,7 @@ the monitor the program is running on.
 ## References
 
 * [Python ctypes library](https://docs.python.org/3/library/ctypes.html)
-* 
+
 ## Change History
 
 | Date       | Description                                                                                |
